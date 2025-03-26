@@ -1,7 +1,3 @@
-Below is a README tailored for a GitHub repository where you store multiple projects, including the Palmer Penguins dataset analysis and others, along with their insights. This README assumes you want a general template that can accommodate various projects.
-
----
-
 # Data Analysis Projects Repository
 
 ## Overview
